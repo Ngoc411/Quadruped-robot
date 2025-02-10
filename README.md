@@ -38,6 +38,30 @@ This project is a quadruped robot designed for research and development in robot
   <img src="https://github.com/Ngoc411/Quadruped-robot/blob/861c8d729a915e2470b7b2e9a734f227869108ff/Screenshot%202025-02-08%20211619.png" width="800">
 </div>
 
+For thighs and calves
+
 <div align="center">
   <img src="https://github.com/Ngoc411/Quadruped-robot/blob/861c8d729a915e2470b7b2e9a734f227869108ff/Screenshot%202025-02-08%20211735.png" width="800">
+</div>
+
+For shoulders
+
+## Gaits's process
+
+Some of ex:
+
+<div align="center">
+  <img src="" width="800">
+</div>
+
+<div align="center">
+  <img src="" width="800">
+</div>
+
+<div align="center">
+  <img src="" width="800">
+</div>
+
+<div align="center">
+  <img src="" width="800">
 </div>
