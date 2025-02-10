@@ -50,18 +50,15 @@ For shoulders
 
 Some of ex:
 
-<div align="center">
-  <img src="" width="800">
+<div align="center"; display="flex">
+  <img src="https://github.com/Ngoc411/Quadruped-robot/blob/54d25c03ba40ab36310b549ac7f2fbde48640593/Screenshot%202025-02-10%20172335.png" width="350">
+  <img src="https://github.com/Ngoc411/Quadruped-robot/blob/54d25c03ba40ab36310b549ac7f2fbde48640593/Screenshot%202025-02-10%20172350.png" width="350">
 </div>
 
 <div align="center">
-  <img src="" width="800">
+  <img src="https://github.com/Ngoc411/Quadruped-robot/blob/54d25c03ba40ab36310b549ac7f2fbde48640593/Screenshot%202025-02-10%20172431.png" width="800">
 </div>
 
 <div align="center">
-  <img src="" width="800">
-</div>
-
-<div align="center">
-  <img src="" width="800">
+  <img src="https://github.com/Ngoc411/Quadruped-robot/blob/54d25c03ba40ab36310b549ac7f2fbde48640593/Screenshot%202025-02-10%20172459.png" width="800">
 </div>
